@@ -4,7 +4,11 @@
     --light-grey: #efefef;
     --gold: #ecd5a7;
 }
-
+* {
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
 body {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 1rem;
