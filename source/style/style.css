@@ -140,3 +140,6 @@ a:hover {
 .logo-img {
     width: 4rem;
 }
+div {
+  overflow: hidden;
+}
